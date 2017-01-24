@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="572648925140749"
+    token="1616501624103968776"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="105" />
+    <task
+        name="instant-run-dex"
+        duration="821" />
+    <task
+        name="instant-run-transform"
+        duration="25" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="/Users/AliJavedAnsari/Udemy/TheCompleteAndroidNDeveloperCourse/flappybird/android/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="572347179537646"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/AliJavedAnsari/Udemy/TheCompleteAndroidNDeveloperCourse/flappybird/android/build/outputs/apk/android-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="572603364111106"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/AliJavedAnsari/Udemy/TheCompleteAndroidNDeveloperCourse/flappybird/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="572648925140749"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/AliJavedAnsari/Udemy/TheCompleteAndroidNDeveloperCourse/flappybird/android/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

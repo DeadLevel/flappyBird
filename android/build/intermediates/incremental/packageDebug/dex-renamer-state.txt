@@ -1,0 +1,7 @@
+#Mon Jan 23 23:46:38 PST 2017
+base.0=/Users/AliJavedAnsari/Udemy/TheCompleteAndroidNDeveloperCourse/flappybird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1b1ed8b1e4035b945b8ea4bea180c7c8c4ac3d1d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/AliJavedAnsari/Udemy/TheCompleteAndroidNDeveloperCourse/flappybird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f48efa7d54c9a59c97cca081a0db0d2d8be90ab/classes.dex
+base.1=/Users/AliJavedAnsari/Udemy/TheCompleteAndroidNDeveloperCourse/flappybird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f48efa7d54c9a59c97cca081a0db0d2d8be90ab
+file.0=/Users/AliJavedAnsari/Udemy/TheCompleteAndroidNDeveloperCourse/flappybird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1b1ed8b1e4035b945b8ea4bea180c7c8c4ac3d1d/classes.dex
